@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Sayantan
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently pursuing BTech in Electronics and Communication
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Not good at this though
 
